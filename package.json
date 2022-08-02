@@ -17,5 +17,9 @@
     "mongoose": "^6.5.0",
     "nodemon": "^2.0.19"
   },
+  
+  "engines": {
+    "node": "16.13.2"
+  },
   "description": ""
 }
